@@ -5,10 +5,13 @@
     padding: 0;
     font-family: "Yatra One", system-ui;
     position: sticky;
+    scroll-behavior: smooth; 
 }
 
 body {
     background-color: black;
+    /* Add this line for smooth scrolling */
+
 }
 
 /* Navbar styling */
